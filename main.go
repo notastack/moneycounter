@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	bills := []int{10000, 500, 200, 100, 50, 10, 5, 2, 1}
+	bills := []int{10000, 500, 200, 100, 69, 50, 10, 5, 2, 1}
 	var usrplay int
 	fmt.Println("How much money you got?")
 	fmt.Scanln(&usrplay)
