@@ -1,5 +1,5 @@
 # moneycounter
-Translate sums of money to number of bills
+Translate sums of money into number of bills
 
 
 /*
