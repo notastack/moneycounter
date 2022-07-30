@@ -8,7 +8,7 @@ import (
 func main() {
 	//all possible bills
 	//has to be in order but you can add a reverse shell sorting algo beforehand to make sure
-	bills := []int{10000, 500, 200, 100, 69, 50, 10, 5, 2, 1}
+	bills := []int{1000, 500, 200, 100, 50, 10, 5, 2, 1}
 	var usrplay int
 	// set the user total money count
 	fmt.Println("How much money you got?")
